@@ -1,12 +1,13 @@
 from PIL import Image
 from resizeimage import resizeimage
 import os
-import numpy as np 
+import numpy as np
 from scipy import misc
 import glob
 
 
-def txt_to_list(file_title):
+def txt_to_list():
+    file_title = "data.txt"
     file = open(file_title, "r")
     ls = list()
     for line in file.readlines():
@@ -40,6 +41,5 @@ def get_all_img_vectors():
     return ls
 
 if __name__ == "__main__":
-    FILE = "data.txt"
-    ls = txt_to_list(FILE)
+    ls = txt_to_list()
     img = get_all_img_vectors()
