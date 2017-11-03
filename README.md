@@ -2,7 +2,7 @@
 
 ## Overview
 
-Figuring out the flex value of fingers using Multiple Linear Regression
+Vertical Integrated Project (Robotic Musicianship) for figuring out the flex value of fingers using Multiple Linear Regression techniques.
 
 
 ## Work in Progress
@@ -21,4 +21,4 @@ Preprocess:
 * Sereym Baek
 * Josh Bishop
 * Yuxin Zhang
-* Special thanks to Dr. Gil Weinberg and Lamtharn (Hanoi) Hantrakul for insightful discussion and advice throughout the project. 
+* Special thanks to Dr. Gil Weinberg and Lamtharn (Hanoi) Hantrakul
